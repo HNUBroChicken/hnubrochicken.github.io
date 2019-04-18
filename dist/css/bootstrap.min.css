@@ -5036,6 +5036,10 @@ a.label:focus, a.label:hover {
 	background-color: #87CEFA;
 }
 
+.label-pink{
+	background-color: #FFC0CB;
+}
+
 .label-default {
 	background-color: #777
 }
